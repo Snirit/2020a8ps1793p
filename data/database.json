@@ -1,0 +1,74 @@
+{
+    "database": [
+        {
+            "name": "Electric Vehicle Charging Station",
+            "contact": 9870407928,
+            "latitude": 19.1026,
+            "longitude": 72.8242,
+            "address": "4WQP+753, Bhandup, Datar Colony, Bhandup East, Mumbai, Maharashtra 400042"
+        },
+        {
+            "name": "Magenta ChargeGrid Charging Station",
+            "contact": 9870403728,
+            "latitude": 19.1247,
+            "longitude": 72.9488,
+            "address": "17, Lal Bahadur Shastri Rd, opposite Home Town, central, Chandan Nagar, Vikhroli West, Mumbai, Maharashtra 400083"
+        },
+        {
+            "name": "Tata Charging Station",
+            "contact": 9770403928,
+            "latitude": 19.1149,
+            "longitude": 72.9267,
+            "address": "4WQP+753, Bhandup, Datar Colony, Bhandup East, Mumbai, Maharashtra 400042"
+        },
+        {
+            "name": "Eva Charging Station",
+            "contact": 9870403988,
+            "latitude": 19.082681585289972,
+            "longitude": 72.85849569200829,
+            "address": "59th Floor, Platina, C.59, G Block Rd, near Citibank, Bandra Kurla Complex, Bandra East, 400051"
+        },
+        {
+            "name": "PluginIndia Electrics (OPC) PVT. LTD",
+            "contact": 9870303928,
+            "latitude": 19.0111,
+            "longitude": 73.8747,
+            "address": "Shop #4, Ayesha Apts, 2nd Hasnabad Ln, Santacruz West, Mumbai, Maharashtra 400054"
+        },
+        {
+            "name": "Charge And Drive Charging Station",
+            "contact": 9870493928,
+            "latitude": 19.197,
+            "longitude": 72.845,
+            "address": "G-603/604, Vasari Hill Rd, Malad, Sunder Nagar, Goregaon West, Mumbai, Maharashtra 400064"
+        },
+        {
+            "name": "Electric Vehicle Charging Station",
+            "contact": 9870402928,
+            "latitude": 19.06960285587237,
+            "longitude": 72.88245233165571,
+            "address": "railway ticket room, near, Sai seva krupa society E-1010, Jagruti Nagar, Police Colony, Kurla, Mumbai, Maharashtra 400024"
+        },
+        {
+            "name": "VoltaPoint",
+            "contact": 9870453928,
+            "latitude": 19.01537262272815,
+            "longitude": 72.82587941194159,
+            "address": "527, Building No - 2, SRA Cooperative Society, Prabhadevi, near Ahuja Towers, Mumbai, Maharashtra 400025"
+        },
+        {
+            "name": "BEST Electric Charger for Mahindra e2oPlus",
+            "contact": 9070403928,
+            "latitude": 19.015681859310746,
+            "longitude": 72.81999187272007,
+            "address": "2R7C+54W, Municipal Colony, Worli Shivaji Nagar, Worli, Mumbai, Maharashtra 400030"
+        },
+        {
+            "name": "Volttic Charging Station",
+            "contact": 9870103928,
+            "latitude": 19.123570241710784,
+            "longitude": 72.88737149128913,
+            "address": "4VCP+3R9, Military Rd, Raje Shivaji Nagar, Marol, Andheri East, Mumbai, Maharashtra 400072"
+        }
+    ]
+}
