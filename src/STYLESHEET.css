@@ -13,7 +13,31 @@
 
 
 }
+.mapp{
+    margin: 10px;
+}
+#map{
+    width:100%;
+}
+#ma{
+    width: 100px;
+    height: 500px;
 
+}
+.maph{
+    text-align: center;
+    font-family:  monospace;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #0000000f;
+}
+
+.available{
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
 nav {
     display: flex;
     padding: 0.5% 1.5%;
@@ -175,6 +199,7 @@ nav .fa {
 
 .ofd {
     padding: 100px;
+    width: 100%;
     padding-top: 20px;
     margin-top: 20px;
     background-image: linear-gradient(rgba(4, 9, 30, 0.774), rgba(4, 9, 30, 0.747)), url(./1.jpeg);
@@ -186,6 +211,7 @@ nav .fa {
 }
 .ofdd {
     padding: 100px;
+    width: 100%;
     padding-top: 20px;
     margin-top: 20px;
     background-image: linear-gradient(rgba(4, 9, 30, 0.774), rgba(4, 9, 30, 0.747)), url(./3.png);
@@ -198,6 +224,7 @@ nav .fa {
 
 .ofe {
     padding: 100px;
+    width: 100%;
     padding-top: 20px;
     margin-top: 20px;
     background-image: linear-gradient(rgba(4, 9, 30, 0.753), rgba(4, 9, 30, 0.74)), url(./2.jpg);
@@ -209,6 +236,7 @@ nav .fa {
 }
 .ofee {
     padding: 100px;
+    width: 100%;
     padding-top: 20px;
     margin-top: 20px;
     background-image: linear-gradient(rgba(4, 9, 30, 0.753), rgba(4, 9, 30, 0.74)), url(./4.jpg);
