@@ -268,6 +268,30 @@ nav .fa {
     font-weight: bold;
 }
 
+.chargers{
+	max-width: 250px;
+	margin: 20px 20px 0 0;  
+    border: 1px solid #333;
+	display: flex;
+}
+
+
+.chargers-photo img {
+    margin: 20px 30px 0 0;
+    align-self: flex-start;
+}
+
+.chargers-content {
+	float: left
+}
+
+.chargers-title {
+	font-weight: bold;
+    font-size: 200%
+}
+
+.clear{clear:both;}
+
 #op {
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
