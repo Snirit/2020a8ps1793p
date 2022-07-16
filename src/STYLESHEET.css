@@ -207,6 +207,12 @@ nav .fa {
 
 }
 
+.img-portr img{
+	height: 80%; 
+	width: 90%;
+	object-fit: contain;
+}
+
 .type {
     margin-top: 200px;
     display: flex;
